@@ -17,13 +17,13 @@ Este projeto é um encurtador de URL simples que permite aos usuários encurtar 
 - **Corpo da Requisição:**
     ```json
     {
-        "longUrl": "https://exemplo.com/url-longa"
+        "url": "https://exemplo.com/url-longa"
     }
     ```
 - **Resposta de Sucesso:**
     ```json
     {
-        "shortUrl": "http://xxx.com/abc123"
+        "url": "http://xxx.com/abc123"
     }
     ```
 
