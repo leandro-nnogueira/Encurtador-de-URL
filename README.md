@@ -6,7 +6,6 @@ Este projeto é um encurtador de URL simples que permite aos usuários encurtar 
 
 - Encurtar URLs longas
 - Redirecionar URLs encurtadas para o destino original
-- Exibir estatísticas de uso
 
 ## Endpoints
 
